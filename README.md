@@ -3,6 +3,8 @@ This is an open-source repository based on our paper, primarily applied in the f
 
 We plan to publish the code on GitHub after the paper is accepted. Our code is implemented in PyTorch. 
 
-Our network will be updated in subsequent releases.
+Our network have updated.
+
+Our reasearch can be found:https://github.com/shao15xiang/RScompression
 
 
