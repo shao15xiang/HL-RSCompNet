@@ -5,6 +5,4 @@ We plan to publish the code on GitHub after the paper is accepted. Our code is i
 
 Our network have updated.
 
-Our reasearch can be found:https://github.com/shao15xiang/RScompression
-
 
